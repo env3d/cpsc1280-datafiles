@@ -10,8 +10,8 @@ Justice Institute of British Columbia
 Kwantlen Polytechnic University
 Langara College
 Nicola Valley Institute of Technology
-Northern Lights College
 North Island College
+Northern Lights College
 Okanagan College
 Royal Roads University
 Selkirk College
@@ -19,7 +19,7 @@ Simon Fraser University
 Thompson Rivers University
 University of British Columbia
 University of Northern British Columbia
-University of the Fraser Valley
 University of Victoria
+University of the Fraser Valley
 Vancouver Community College
 Vancouver Island University
